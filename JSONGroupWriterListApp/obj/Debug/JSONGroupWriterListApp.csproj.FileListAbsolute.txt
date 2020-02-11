@@ -1,0 +1,7 @@
+C:\Users\elvis.dias\source\repos\JSONGroupWriterListApp\bin\Debug\JSONGroupWriterListApp.exe.config
+C:\Users\elvis.dias\source\repos\JSONGroupWriterListApp\bin\Debug\JSONGroupWriterListApp.exe
+C:\Users\elvis.dias\source\repos\JSONGroupWriterListApp\bin\Debug\JSONGroupWriterListApp.pdb
+C:\Users\elvis.dias\source\repos\JSONGroupWriterListApp\obj\Debug\JSONGroupWriterListApp.csprojAssemblyReference.cache
+C:\Users\elvis.dias\source\repos\JSONGroupWriterListApp\obj\Debug\JSONGroupWriterListApp.csproj.CoreCompileInputs.cache
+C:\Users\elvis.dias\source\repos\JSONGroupWriterListApp\obj\Debug\JSONGroupWriterListApp.exe
+C:\Users\elvis.dias\source\repos\JSONGroupWriterListApp\obj\Debug\JSONGroupWriterListApp.pdb

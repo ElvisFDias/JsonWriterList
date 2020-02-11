@@ -1,0 +1,9 @@
+C:\Users\elvis.dias\source\repos\JsonWriterList\bin\Debug\netstandard2.0\JsonWriterList.deps.json
+C:\Users\elvis.dias\source\repos\JsonWriterList\bin\Debug\netstandard2.0\JsonWriterList.dll
+C:\Users\elvis.dias\source\repos\JsonWriterList\obj\Debug\netstandard2.0\JsonWriterList.csprojAssemblyReference.cache
+C:\Users\elvis.dias\source\repos\JsonWriterList\obj\Debug\netstandard2.0\JsonWriterList.csproj.CoreCompileInputs.cache
+C:\Users\elvis.dias\source\repos\JsonWriterList\obj\Debug\netstandard2.0\JsonWriterList.AssemblyInfoInputs.cache
+C:\Users\elvis.dias\source\repos\JsonWriterList\obj\Debug\netstandard2.0\JsonWriterList.AssemblyInfo.cs
+C:\Users\elvis.dias\source\repos\JsonWriterList\bin\Debug\netstandard2.0\JsonWriterList.pdb
+C:\Users\elvis.dias\source\repos\JsonWriterList\obj\Debug\netstandard2.0\JsonWriterList.dll
+C:\Users\elvis.dias\source\repos\JsonWriterList\obj\Debug\netstandard2.0\JsonWriterList.pdb
